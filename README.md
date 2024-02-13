@@ -3,9 +3,10 @@ Museum Application (Relics of Turkiye)
 
 2. Team members Name(s) of the project undertaker(s).  
 Irfaan Ahmad
+
 Narimene Belguidoum
  
-3. Project Overview : 
+4. Project Overview : 
 Provide a description of the proposed project and outline the expected results. 
 
 We propose the development of a comprehensive Museum App for Turkey, designed to provide users with a one-stop solution for all their museum-related needs. This application will offer an extensive list of museums available throughout Turkey, along with essential information such as general descriptions of the museum's contents, operating hours, ticket prices, and user reviews. To enhance the user experience, the app will include a feature allowing users to gauge the current capacity and crowdedness of the museums, represented by a simple bar indicator with. Users will have the ability to leave comments and reviews, as well as share their experiences through photos. Furthermore, users will have the option to choose between a Dark Theme and a Light Theme for an optimal viewing experience. This Museum App aims to make exploring and enjoying Turkey's rich cultural heritage a seamless and delightful experience for all visitors and locals.
