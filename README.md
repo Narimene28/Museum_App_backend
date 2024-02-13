@@ -2,8 +2,8 @@
 Museum Application (Relics of Turkiye)
 
 2. Team members Name(s) of the project undertaker(s).  
-Irfaan Ahmad
 
+Irfaan Ahmad
 Narimene Belguidoum
  
 4. Project Overview : 
