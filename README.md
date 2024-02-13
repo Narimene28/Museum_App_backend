@@ -3,8 +3,7 @@ Museum Application (Relics of Turkiye)
 
 2. Team members Name(s) of the project undertaker(s).  
 
-Irfaan Ahmad and 
-Narimene Belguidoum
+Narimene Belguidoum and Irfaan Ahmad
  
 4. Project Overview : 
 Provide a description of the proposed project and outline the expected results. 
